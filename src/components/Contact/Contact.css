@@ -1,0 +1,35 @@
+.contact-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .contact-container h1 {
+    font-size: 2.5rem;
+    color: #333;
+  }
+  
+  .contact-container p {
+    margin-bottom: 20px;
+  }
+  
+  .click-button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .click-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .input-field {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  

@@ -1,0 +1,30 @@
+.portfolio-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .portfolio-container h1 {
+    font-size: 2.5rem;
+    color: #333;
+  }
+  
+  .portfolio-container p {
+    margin-bottom: 20px;
+  }
+  
+  .project {
+    margin-bottom: 30px;
+  }
+  
+  .project h2 {
+    font-size: 1.8rem;
+    color: #007bff;
+  }
+  
+  .project p {
+    font-size: 1.2rem;
+  }
+  
+  

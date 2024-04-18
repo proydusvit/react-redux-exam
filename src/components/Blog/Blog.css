@@ -1,0 +1,30 @@
+.blog-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .blog-container h1 {
+    font-size: 2.5rem;
+    color: #333;
+  }
+  
+  .blog-container p {
+    margin-bottom: 20px;
+  }
+  
+  .update-button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .update-button:hover {
+    background-color: #0056b3;
+  }
+  
+
+  

@@ -1,0 +1,41 @@
+.services-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .services-container h1 {
+    font-size: 2.5rem;
+    color: #333;
+  }
+  
+  .services-container p {
+    margin-bottom: 20px;
+  }
+  
+  .product-names ul,
+  .premium-products ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .premium-products li {
+    margin-bottom: 10px;
+  }
+  
+  .total-price p {
+    font-size: 1.2rem;
+  }
+  
+  .home-link {
+    display: block;
+    margin-top: 20px;
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .home-link:hover {
+    text-decoration: underline;
+  }
+  
